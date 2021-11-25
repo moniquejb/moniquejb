@@ -10,7 +10,7 @@ I have done my fair share of galivanting since leaving university- from working 
 
 [![Travel Photos](https://i.postimg.cc/76XdQjqY/Git-banner-template-04.jpg)](https://postimg.cc/phhsmG9g)
 
-## Front End Web Development
+### Front End Web Development
 When I decided to teach myself how to code, it was very overwhelming figuring out where to start. On recommendation I bought an online course by [ZTM Academy](https://zerotomastery.io/) called [The Complete Web Developer: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery). I deviated from the course **very** often to learn the same topics from different sources, such as [freeCodeCamp](https://www.freecodecamp.org/), [
 Codecademy](https://www.codecademy.com), [W3Schools](https://www.w3schools.com) as well as articles, documentation, YouTube videos and forums. I also created my own personal projects along the way, some of which you can find here on GitHub:
 - [Pig Latin Translator](https://github.com/moniquejb/pig-latin-translator) (first website)
