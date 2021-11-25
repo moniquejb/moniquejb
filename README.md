@@ -1,1 +1,12 @@
-More to come! :smile:
+[![Banner](https://i.postimg.cc/3Js5TJB6/Git-banner-MJB-02.jpg)](https://postimg.cc/3dFbjhzC)
+
+# A little bit about me...
+I am a self-taught Front End Developer from Durban, South Africa. Although I am now on my journey as a web developer, I originally graduated with a BA in Information Design at the University of Pretoria, South Africa. I believe that having design knowledge has really helped me be a better Front End Developer, and I love creating my own content for my websites.
+
+## My journey
+
+I have done my fair share of galivanting since leaving university- from working as a Photographer on a cruise ship in places like Alaska and the Baltics, to backpacking through Patagonia, and to teaching English in Spanish speaking countries like Chile and Spain! I always found a way to incorporate my skills into these jobs, like creating digital content for the Photo manager, retouching away those wrinkles for a ship passenger, or creating and designing cool lesson presentations for all my teenage students. While others were starting their careers fresh out of university, I was gaining life experience, learning about different cultures and the people in them, learning a new language (Spanish) and living in countries with so much to learn from. And through all of that, I found my love for coding in a classroom full of 13 year old Spanish kids! Who would have guessed it would happen like that!? Since then, it has been a whole journey on it's own trying to learn how to code in my spare time while working abroad. But after 2+ years of hard after hours work, I was finally able to get to the point where I could call myself a Front End Developer. Now I am back home in South Africa, working on my coding full-time and excited to continue learning for a lifetime!
+
+[![Travel Photos](https://i.postimg.cc/76XdQjqY/Git-banner-template-04.jpg)](https://postimg.cc/phhsmG9g)
+
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-blignaut-48173485) [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monique.jaimee/) [![Behance badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/MoniqueBlignaut) [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moniblig@gmail.com)
