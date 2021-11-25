@@ -22,7 +22,8 @@ Although the online course I chose touched on both the Front End and Back End, I
 ## What's next for me?
 Although I have most of my experience in JavaScript, React, CSS/SASS and HTML- I am eager to learn any language/library/framework necessary to move ahead and improve in this industry. A few things I touched on in the online course that I really want to spend more time on are Redux, Node.js and Express.js. I also want to dive even deeper into JavaScript and React. Why not learn a whole different framework as well while I'm at it? :nerd_face:
 
-I am currently on the job hunt, feel free to contact me or share my work! :wink: I hope to find work in Cape Town, as I have always wanted to make that my home base. In the meantime I am also working on developing my own portfolio website and continuing to learn anything and everything I can. Thanks for dropping by!
+I am currently on the job hunt, feel free to contact me or share my work! :wink: I hope to find work in Cape Town, as I have always wanted to make that my home base. In the meantime I am also working on developing my own portfolio website and continuing to learn anything and everything I can.
 
+Thanks for dropping by!
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-blignaut-48173485) [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monique.jaimee/) [![Behance badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/MoniqueBlignaut) [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moniblig@gmail.com)
