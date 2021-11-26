@@ -17,8 +17,8 @@ I have done my fair share of galivanting since leaving university- from working 
 ### Front End Web Development
 When I decided to teach myself how to code, it was very overwhelming figuring out where to start. On recommendation I bought an online course by [ZTM Academy](https://zerotomastery.io/) called [The Complete Web Developer: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery). I deviated from the course **very** often to learn the same topics from different sources, such as [freeCodeCamp](https://www.freecodecamp.org/), [
 Codecademy](https://www.codecademy.com), [W3Schools](https://www.w3schools.com) as well as articles, documentation, YouTube videos and forums. I also created my own personal projects along the way, some of which you can find here on GitHub:
-- [Pig Latin Translator](https://github.com/moniquejb/pig-latin-translator) (first website)
 - [Dodge Dat Door Game](https://github.com/moniquejb/dodge-dat-door) (fun personal project)
+- [Pig Latin Translator](https://github.com/moniquejb/pig-latin-translator) (first website)
 
 Although the online course I chose touched on both the Front End and Back End, I definitely felt more drawn to the Front End and have decided to focus on that field for the time being. I have noticed the big impact the Back End makes in a website though, so I really want to learn more Back End technologies so that I can be a well-rounded developer. After completing the course in March 2021, I was able to take on my first major project where I designed and created a website for Mexican psychologist, Cristina Conrique. Not only did I create her website, but I also designed her logo and photographed her for the 'About Me' section of her page. The website is in Spanish as she has a Spanish-only client base, and you can also find it here on GitHub:
 - [Cristina Conrique Psychology](https://github.com/moniquejb/cristina-conrique-psychology) (commercial & most recent project) 
