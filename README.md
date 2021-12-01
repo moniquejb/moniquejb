@@ -28,6 +28,9 @@ Although I have most of my experience in JavaScript, React, CSS/SCSS and HTML- I
 
 I am currently on the job hunt, feel free to contact me or share my work! :wink: I hope to find work in Cape Town, as I have always wanted to make that my home base. In the meantime I am also working on developing my own portfolio website and continuing to learn anything and everything I can.
 
+ - **Currently working on this skill:** Redux
+ - **Currently yorking on this project:** Personal Portfolio
+
 Other social profiles below. Thanks for dropping by!
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjblignaut/) [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monique.jaimee/) [![Behance badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/MoniqueBlignaut) [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moniblig@gmail.com)
