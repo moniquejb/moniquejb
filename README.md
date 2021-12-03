@@ -28,8 +28,8 @@ Although I have most of my experience in JavaScript, React, CSS/SCSS and HTML- I
 
 I am currently on the job hunt, feel free to contact me or share my work! :wink: I hope to find work in Cape Town, as I have always wanted to make that my home base. In the meantime I am also working on developing my own portfolio website and continuing to learn anything and everything I can.
 
- - **Currently working on this skill:** Redux
- - **Currently working on this project:** Personal Portfolio
+ - **Currently learning:** Redux
+ - **Currently working on:** Freelance Work & Personal Portfolio
 
 Other social profiles below. Thanks for dropping by!
 
