@@ -6,7 +6,8 @@ Some of my other interests include:
  - **Sport:** Playing them, watching them.. everything. Go Sharks!
  - **Nature:** Yes I would love to go on that extremely long hike with you.
  - **Travel:** I make a killer trip itinerary, just saying...
- - **Culture:** You can never know enough!
+ - **Arts & Culture:** You can never know enough!
+ - **Gaming:** If only there were enough time to do it though...
 
 ## My journey
 
