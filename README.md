@@ -25,11 +25,9 @@ Although the online course I chose touched on both the Front End and Back End, I
 - [Cristina Conrique Psychology](https://github.com/moniquejb/cristina-conrique-psychology) (commercial & most recent project) 
 
 ## What's next for me?
-Although I have most of my experience in JavaScript, React, CSS/SCSS and HTML- I am eager to learn any language/library/framework necessary to move ahead and improve in this industry. A few things I touched on in the online course that I really want to spend more time on are Redux, Node.js and Express.js. I also want to dive even deeper into JavaScript and React. Why not learn a whole different framework as well while I'm at it? :nerd_face:
+Although I have most of my experience in JavaScript, React, CSS/SCSS and HTML- I am eager to learn any language/library/framework necessary to move ahead and improve in this industry.
 
-I am currently on the job hunt, feel free to contact me or share my work! :wink: I hope to find work in Cape Town, as I have always wanted to make that my home base. In the meantime I am also working on developing my own portfolio website and continuing to learn anything and everything I can.
-
- - **Currently learning:** Vue.js, Redux
+ - **Currently learning:** Vue.js
  - **Currently working on:** Freelance Work
 
 Other social profiles below. Thanks for dropping by!
