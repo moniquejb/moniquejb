@@ -25,10 +25,9 @@ Although the online course I chose touched on both the Front End and Back End, I
 - [Cristina Conrique Psychology](https://github.com/moniquejb/cristina-conrique-psychology) (commercial & most recent project) 
 
 ## What's next for me?
-Although I have most of my experience in JavaScript, React, CSS/SCSS and HTML- I am eager to learn any language/library/framework necessary to move ahead and improve in this industry.
+After working on a freelance job for a company in Durban, South Africa, called [Nologo Studios](https://www.nologostudios.com)- I was offered a full-time position as a Front end Developer!! I am learning so much and I'm excited about the future!
 
- - **Currently learning:** Vue.js
- - **Currently working on:** Freelance Work
+ - **Currently learning:** Vue.js, Vuex, Typescript
 
 Other social profiles below. Thanks for dropping by!
 
